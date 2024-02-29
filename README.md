@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/yjoo1205/yjoo1205/blob/main/github-header-image.png)
+![](https://github.com/yjoo1205/yjoo1205/blob/main/header.png)
 # Kwak Yoon Joo
 ### Data Analyst | Data Science Enthusiast | Automation Specialist
 
