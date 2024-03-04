@@ -4,7 +4,7 @@
 # Kwak Yoon Joo
 ### Data Analyst | Automation Specialist
 
-Welcome to my GitHub profile! I'm Yoon Joo, a data analyst with a passion for applying innovative analytics techniques to drive decision-making. Join me on my journey of continuous learning and exploration in the realm of data science & programming, as reflected in my diverse project portfolio.
+Welcome to my GitHub profile! I'm Yoon Joo, a data analyst with a passion for applying innovative analytics techniques to drive decision-making. Join me on my journey of continuous learning and exploration in the realm of data science & programming! 
 
 
 ## Skills
